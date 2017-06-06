@@ -8,6 +8,7 @@ public class PacmanMove : MonoBehaviour
     public float speed = 1;
     Vector2 vel;
     CircleCollider2D cc;
+    public float leftBound, rightBound;
 
 	// Use this for initialization
 	void Start ()
@@ -58,6 +59,7 @@ public class PacmanMove : MonoBehaviour
                 }
             }
             vel = dir * speed;
+            rb.rotation = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
         }
     }
 
@@ -65,9 +67,14 @@ public class PacmanMove : MonoBehaviour
     {
         rb.MovePosition(rb.position + vel * Time.deltaTime);
 
-        //if(vel.magnitude < speed)
-        //{
-        //    vel *= speed / vel.magnitude;
-        //}
+        // loop
+        if(rb.position.x > rightBound)
+        {
+            rb.position = new Vector2(leftBound + 0.01f, rb.position.y);
+        }
+        else if (rb.position.x < leftBound)
+        {
+            rb.position = new Vector2(rightBound - 0.01f, rb.position.y);
+        }
     }
 }
