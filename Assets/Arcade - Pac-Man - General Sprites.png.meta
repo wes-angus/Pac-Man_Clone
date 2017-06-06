@@ -1,0 +1,1862 @@
+fileFormatVersion: 2
+guid: 51aca65294a97ed4c868c9ed8b3a565c
+timeCreated: 1496700150
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Arcade - Pac-Man - General Sprites_0
+    21300002: Arcade - Pac-Man - General Sprites_1
+    21300004: Arcade - Pac-Man - General Sprites_2
+    21300006: Arcade - Pac-Man - General Sprites_3
+    21300008: Arcade - Pac-Man - General Sprites_4
+    21300010: Arcade - Pac-Man - General Sprites_5
+    21300012: Arcade - Pac-Man - General Sprites_6
+    21300014: Arcade - Pac-Man - General Sprites_7
+    21300016: Arcade - Pac-Man - General Sprites_8
+    21300018: Arcade - Pac-Man - General Sprites_9
+    21300020: Arcade - Pac-Man - General Sprites_10
+    21300022: Arcade - Pac-Man - General Sprites_11
+    21300024: Arcade - Pac-Man - General Sprites_12
+    21300026: Arcade - Pac-Man - General Sprites_13
+    21300028: Arcade - Pac-Man - General Sprites_14
+    21300030: Arcade - Pac-Man - General Sprites_15
+    21300032: Arcade - Pac-Man - General Sprites_16
+    21300034: Arcade - Pac-Man - General Sprites_17
+    21300036: Arcade - Pac-Man - General Sprites_18
+    21300038: Arcade - Pac-Man - General Sprites_19
+    21300040: Arcade - Pac-Man - General Sprites_20
+    21300042: Arcade - Pac-Man - General Sprites_21
+    21300044: Arcade - Pac-Man - General Sprites_22
+    21300046: Arcade - Pac-Man - General Sprites_23
+    21300048: Arcade - Pac-Man - General Sprites_24
+    21300050: Arcade - Pac-Man - General Sprites_25
+    21300052: Arcade - Pac-Man - General Sprites_26
+    21300054: Arcade - Pac-Man - General Sprites_27
+    21300056: Arcade - Pac-Man - General Sprites_28
+    21300058: Arcade - Pac-Man - General Sprites_29
+    21300060: Arcade - Pac-Man - General Sprites_30
+    21300062: Arcade - Pac-Man - General Sprites_31
+    21300064: Arcade - Pac-Man - General Sprites_32
+    21300066: Arcade - Pac-Man - General Sprites_33
+    21300068: Arcade - Pac-Man - General Sprites_34
+    21300070: Arcade - Pac-Man - General Sprites_35
+    21300072: Arcade - Pac-Man - General Sprites_36
+    21300074: Arcade - Pac-Man - General Sprites_37
+    21300076: Arcade - Pac-Man - General Sprites_38
+    21300078: Arcade - Pac-Man - General Sprites_39
+    21300080: Arcade - Pac-Man - General Sprites_40
+    21300082: Arcade - Pac-Man - General Sprites_41
+    21300084: Arcade - Pac-Man - General Sprites_42
+    21300086: Arcade - Pac-Man - General Sprites_43
+    21300088: Arcade - Pac-Man - General Sprites_44
+    21300090: Arcade - Pac-Man - General Sprites_45
+    21300092: Arcade - Pac-Man - General Sprites_46
+    21300094: Arcade - Pac-Man - General Sprites_47
+    21300096: Arcade - Pac-Man - General Sprites_48
+    21300098: Arcade - Pac-Man - General Sprites_49
+    21300100: Arcade - Pac-Man - General Sprites_50
+    21300102: Arcade - Pac-Man - General Sprites_51
+    21300104: Arcade - Pac-Man - General Sprites_52
+    21300106: Arcade - Pac-Man - General Sprites_53
+    21300108: Arcade - Pac-Man - General Sprites_54
+    21300110: Arcade - Pac-Man - General Sprites_55
+    21300112: Arcade - Pac-Man - General Sprites_56
+    21300114: Arcade - Pac-Man - General Sprites_57
+    21300116: Arcade - Pac-Man - General Sprites_58
+    21300118: Arcade - Pac-Man - General Sprites_59
+    21300120: Arcade - Pac-Man - General Sprites_60
+    21300122: Arcade - Pac-Man - General Sprites_61
+    21300124: Arcade - Pac-Man - General Sprites_62
+    21300126: Arcade - Pac-Man - General Sprites_63
+    21300128: Arcade - Pac-Man - General Sprites_64
+    21300130: Arcade - Pac-Man - General Sprites_65
+    21300132: Arcade - Pac-Man - General Sprites_66
+    21300134: Arcade - Pac-Man - General Sprites_67
+    21300136: Arcade - Pac-Man - General Sprites_68
+    21300138: Arcade - Pac-Man - General Sprites_69
+    21300140: Arcade - Pac-Man - General Sprites_70
+    21300142: Arcade - Pac-Man - General Sprites_71
+    21300144: Arcade - Pac-Man - General Sprites_72
+    21300146: Arcade - Pac-Man - General Sprites_73
+    21300148: Arcade - Pac-Man - General Sprites_74
+    21300150: Arcade - Pac-Man - General Sprites_75
+    21300152: Arcade - Pac-Man - General Sprites_76
+    21300154: Arcade - Pac-Man - General Sprites_77
+    21300156: Arcade - Pac-Man - General Sprites_78
+    21300158: Arcade - Pac-Man - General Sprites_79
+    21300160: Arcade - Pac-Man - General Sprites_80
+    21300162: Arcade - Pac-Man - General Sprites_81
+    21300164: Arcade - Pac-Man - General Sprites_82
+    21300166: Arcade - Pac-Man - General Sprites_83
+    21300168: Arcade - Pac-Man - General Sprites_84
+    21300170: Arcade - Pac-Man - General Sprites_85
+    21300172: Arcade - Pac-Man - General Sprites_86
+    21300174: Arcade - Pac-Man - General Sprites_87
+    21300176: Arcade - Pac-Man - General Sprites_88
+    21300178: Arcade - Pac-Man - General Sprites_89
+    21300180: Arcade - Pac-Man - General Sprites_90
+    21300182: Arcade - Pac-Man - General Sprites_91
+    21300184: Arcade - Pac-Man - General Sprites_92
+    21300186: Arcade - Pac-Man - General Sprites_93
+    21300188: Arcade - Pac-Man - General Sprites_94
+    21300190: Arcade - Pac-Man - General Sprites_95
+    21300192: Arcade - Pac-Man - General Sprites_96
+    21300194: Arcade - Pac-Man - General Sprites_97
+    21300196: Arcade - Pac-Man - General Sprites_98
+    21300198: Arcade - Pac-Man - General Sprites_99
+    21300200: Arcade - Pac-Man - General Sprites_100
+    21300202: Arcade - Pac-Man - General Sprites_101
+    21300204: Arcade - Pac-Man - General Sprites_102
+    21300206: Arcade - Pac-Man - General Sprites_103
+    21300208: Arcade - Pac-Man - General Sprites_104
+    21300210: Arcade - Pac-Man - General Sprites_105
+    21300212: Arcade - Pac-Man - General Sprites_106
+    21300214: Arcade - Pac-Man - General Sprites_107
+    21300216: Arcade - Pac-Man - General Sprites_108
+    21300218: Arcade - Pac-Man - General Sprites_109
+    21300220: Arcade - Pac-Man - General Sprites_110
+    21300222: Arcade - Pac-Man - General Sprites_111
+    21300224: Arcade - Pac-Man - General Sprites_112
+    21300226: Arcade - Pac-Man - General Sprites_113
+    21300228: Arcade - Pac-Man - General Sprites_114
+    21300230: Arcade - Pac-Man - General Sprites_115
+    21300232: Arcade - Pac-Man - General Sprites_116
+    21300234: Arcade - Pac-Man - General Sprites_117
+    21300236: Arcade - Pac-Man - General Sprites_118
+    21300238: Arcade - Pac-Man - General Sprites_119
+    21300240: Arcade - Pac-Man - General Sprites_120
+    21300242: Arcade - Pac-Man - General Sprites_121
+    21300244: Arcade - Pac-Man - General Sprites_122
+    21300246: Arcade - Pac-Man - General Sprites_123
+    21300248: Arcade - Pac-Man - General Sprites_124
+    21300250: Arcade - Pac-Man - General Sprites_125
+    21300252: Arcade - Pac-Man - General Sprites_126
+    21300254: Arcade - Pac-Man - General Sprites_127
+    21300256: Arcade - Pac-Man - General Sprites_128
+    21300258: Arcade - Pac-Man - General Sprites_129
+    21300260: Arcade - Pac-Man - General Sprites_130
+    21300262: Arcade - Pac-Man - General Sprites_131
+    21300264: Arcade - Pac-Man - General Sprites_132
+    21300266: Arcade - Pac-Man - General Sprites_133
+    21300268: Arcade - Pac-Man - General Sprites_134
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 224
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 234
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 234
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 234
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 236
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 236
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 236
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 236
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 235
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 234
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 233
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 233
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 232
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 218
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 218
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 200
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 200
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 219
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 202
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 202
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 190
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 187
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 186
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 186
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 186
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 186
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 185
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 186
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 185
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 185
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 159
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 159
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 159
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 159
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 161
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 161
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 158
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 158
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 137
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 137
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 137
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 137
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 137
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 137
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 137
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 137
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 121
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 136
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 136
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 136
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 136
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 121
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 121
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 121
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 121
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 121
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 121
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 121
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 121
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 121
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 121
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 121
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 224
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 108
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 108
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 108
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 108
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 108
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 108
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 108
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 108
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 108
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 108
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 108
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 108
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 105
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 105
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 93
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 93
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 93
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 93
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 93
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 93
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 93
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 93
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 93
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_115
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 93
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_116
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 93
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_117
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 93
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_118
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 93
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_119
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 93
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_120
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 89
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_121
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 89
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_122
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 89
+        width: 31
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_123
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 77
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_124
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 77
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_125
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 77
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_126
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 77
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_127
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 61
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_128
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 61
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_129
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 61
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_130
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 61
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_131
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 45
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_132
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 45
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_133
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 45
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_134
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 45
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
